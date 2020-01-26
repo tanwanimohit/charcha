@@ -1,5 +1,7 @@
 ## Getting Started
 
+![Logo](logo.jpg)
+
 First, install Postgres server
 
 ```
